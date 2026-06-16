@@ -1,0 +1,10 @@
+title       = "dp"
+baseURL     = "https://dianping-cli.tamnd.com/"
+description = "Dianping restaurant and review CLI"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/dianping-cli"
